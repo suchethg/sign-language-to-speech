@@ -1,4 +1,4 @@
-# sign-language-to-speech
+# sign-language-to-speech-converter
 
 Dataset link: 
 
